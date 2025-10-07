@@ -12,4 +12,5 @@ Interactive Excel dashboard for analyzing sales and profit performance with KPI 
 - ## Dashboard Preview
 
 ![Dashboard Screenshot]
-()
+(https://github.com/Shubhamyadvv21/excel_sales_dashboard/blob/main/Screenshot%202025-10-07%20183550.png)
+
