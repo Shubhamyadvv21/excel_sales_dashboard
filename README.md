@@ -9,9 +9,11 @@ Interactive Excel dashboard for analyzing sales and profit performance with KPI 
 - project1.xlsx → raw & cleaned sales data
 - project1_dashboard.xlsx → final interactive dashboard
 - dashboard_screenshot.png → screenshot of the dashboard
-- ## Dashboard Preview
+ ## Dashboard Preview
 
-![https://github.com/Shubhamyadvv21/excel_sales_dashboard/blob/main/Screenshot%202025-10-07%20183550.png****]
+![Dashboard Screenshot] 
+(<img width="1920" height="1080" alt="Screenshot 2025-10-07 183550" src="https://github.com/user-attachments/assets/c14ce902-6046-4884-856b-a1a2e46ab7ee" />
+)
 
 
 
