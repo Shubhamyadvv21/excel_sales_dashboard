@@ -10,10 +10,8 @@ Interactive Excel dashboard for analyzing sales and profit performance with KPI 
 - project1_dashboard.xlsx → final interactive dashboard
 - dashboard_screenshot.png → screenshot of the dashboard
  ## Dashboard Preview
+<img width="1920" height="1080" alt="Screenshot 2025-10-07 183550" src="https://github.com/user-attachments/assets/c14ce902-6046-4884-856b-a1a2e46ab7ee" />
 
-![Dashboard Screenshot] 
-(<img width="1920" height="1080" alt="Screenshot 2025-10-07 183550" src="https://github.com/user-attachments/assets/c14ce902-6046-4884-856b-a1a2e46ab7ee" />
-)
 
 
 
