@@ -11,7 +11,17 @@ Interactive Excel dashboard for analyzing sales and profit performance with KPI 
 - dashboard_screenshot.png → screenshot of the dashboard
  ## Dashboard Preview
 <img width="1920" height="1080" alt="Screenshot 2025-10-07 183550" src="https://github.com/user-attachments/assets/c14ce902-6046-4884-856b-a1a2e46ab7ee" />
-
+## Tools & Skills Used
+Microsoft Excel (2016/2019/365)
+Power Query (for data cleaning, transformation)
+PivotTables & PivotCharts
+Formulas (SUM, IFERROR, VLOOKUP, TEXT, YEAR, etc.)
+Conditional Formatting
+Interactive dashboard design
+## Purpose / Learning Outcome
+Gain hands-on experience in data cleaning, transformation, and visualization using Excel.
+Learn to create interactive dashboards with slicers and KPIs.
+Understand sales performance analysis including regional, product-wise, and segment-wise insights.
 
 
 
